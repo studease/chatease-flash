@@ -10,6 +10,8 @@
 
 > QQ群：528109813
 
+> Skype: live:670292548
+
 This is the flash transmitter of chatease.js for IE8/9.
 
 For more details, please check [chatease.js https://github.com/studease/chatease](https://github.com/studease/chatease).
