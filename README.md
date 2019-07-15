@@ -1,4 +1,4 @@
-﻿# chatease-flash
+﻿# chatease-swf
 
 > [[domain] http://studease.cn](http://studease.cn/chatease.html)
 
